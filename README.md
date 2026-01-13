@@ -54,7 +54,7 @@ A collection of common data structure implementations in C. This repository demo
   cd stack
   ```
 2. Compile the C file:
-   ```bash
+  ```bash
   gcc stack-array.c -o stack
   ```
 3. Run the program:
