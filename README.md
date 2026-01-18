@@ -1,6 +1,8 @@
 # Data Structures in C
 A collection of common data structure implementations in C. This repository demonstrates both **array-based** and **linked-list-based** versions.
 
+---
+
 ## Stack
 ### Array Implementation
 - File: `stack-array.c`
@@ -8,6 +10,8 @@ A collection of common data structure implementations in C. This repository demo
 ### Linked List Implementation
 - File: `stack-linkedlist.c`
 - Operations: Push, Pop, Peek
+
+---
 
 ## Queue
 ### Array Implementation
@@ -20,6 +24,8 @@ A collection of common data structure implementations in C. This repository demo
 - File: `circularqueue-array.c`
 - Operations: Enqueue, Dequeue
 
+---
+
 ## Binary Tree
 ### Binary Tree (Linked List)
 - File: `binarytree-linkedlist.c`
@@ -28,9 +34,13 @@ A collection of common data structure implementations in C. This repository demo
 - File: `binarysearchtree-linkedlist.c`
 - Operations: Insert, Search, Delete, Traversals (inorder, preorder, postorder)
 
+---
+
 ## Linked List
 - File: `linkedlists.c`
 - Operations: Sorted insert, Delete, Print
+
+---
 
 ## Basics
 ### Pointers
@@ -40,6 +50,8 @@ A collection of common data structure implementations in C. This repository demo
 - File: `structs.c`
 - Demonstrates: Struct definition and initialization, Nested structures, Structs with pointers
 
+---
+
 ## Skills Demonstrated
 - Implementation of array-based and linked-list-based data structures
 - Dynamic memory management (`malloc`, `free`)
@@ -47,6 +59,8 @@ A collection of common data structure implementations in C. This repository demo
 - Underflow and overflow handling
 - Recursive and iterative traversal methods
 - Pointer manipulation and struct usage
+
+---
 
 ## How to Run
 1. Navigate to the folder containing the implementation you want to run:
